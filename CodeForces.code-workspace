@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "CodeForces",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unordered_map": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}
