@@ -1,10 +1,5 @@
 {
-	"folders": [
-		{
-			"name": "CodeForces",
-			"path": "."
-		}
-	],
+	"folders": [],
 	"settings": {
 		"files.associations": {
 			"unordered_map": "cpp",
