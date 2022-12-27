@@ -7,6 +7,7 @@ int main(){
     if(count(s.begin(), s.end(), 'D') > count(s.begin(), s.end(), 'A')){
         cout << "Danik" << endl;
     }
+    
     else if(count(s.begin(), s.end(), 'D') < count(s.begin(), s.end(), 'A')){
         cout << "Anton" << endl;
     }
